@@ -1,3 +1,4 @@
 # DSA-java-Leetcode
 
-apna college 8-O
+basics added (15/3/2026)
+
